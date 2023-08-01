@@ -6,13 +6,14 @@
 
 - ✨ Crafted last [Slingshot](https://slingshot-inc.com) website;
 - 🌱 Learning all about **Typescript**
-- ✍️ Figuring out more stuff to publish [on my blog](https://dotpegaso.com.br)
+- ✍️ Talking about web accessibility [on my blog](https://dotpegaso.com.br)
 
 ##### BIO
 
 - 🏢 I'm currently working at **GNAR LLC**
-- ⚙️ I use daily: `react`, `styled-components`, `figma`
+- ⚙️ I use daily: `react wit hooks`, `styled-components`, `rtk query`
 - 💅 Had some fun creating: [HRTBOX](https://www.instagram.com/explore/tags/hrtbox/top/), [Flavor texts](https://flavortexts.netlify.app), [Stairway to Dungeon](https://www.stairwaytodungeon.com), etc…
-- 💬 Ping me about **react**, **design thinking**, **cultural perspectives**, **languages**, **cardgames**
-- 📫 Reach me: [twitter.com/dotpegaso](https://twitter.com/dotpegaso)
-- ⚡️ Fun fact: I love to play Magic the Gathering and D&D B/X
+- 📫 Reach me [at Linkedin](https://linkedin.com/in/dotpegaso)
+- 📄 Take a look on my resume [by clicking here](https://drive.google.com/file/d/1zl4wcJEOZe_xlUF59JxynyLqzTN8gMkH/view?usp=sharing)
+- 💬 Ping me about **cultural perspectives**, **languages**, **cardgames**
+- ⚡️ Fun fact: I love to play oldschool Dungeons & Dragons B/X
