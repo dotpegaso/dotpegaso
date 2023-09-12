@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **GNAR LLC**
+- 🏢 I'm currently working at **CI&T**
 - ⚙️ I use daily: `react wit hooks`, `styled-components`, `rtk query`
 - 💅 Had some fun creating: [HRTBOX](https://www.instagram.com/explore/tags/hrtbox/top/), [Flavor texts](https://flavortexts.netlify.app), [Stairway to Dungeon](https://www.stairwaytodungeon.com), etc…
 - 📫 Reach me [at Linkedin](https://linkedin.com/in/dotpegaso)
